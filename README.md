@@ -11,6 +11,6 @@ To carry out an analysis of IMDb and The Movie Database television show datasets
 ## KDD Methodology
 I carried out this project usign the KDD methodology which included the selection, pre-processing, transformation, and interpretation/evaluation of the data.
 
-I wrote about following this methodology in detail and an IEEE formatted report can be found [here](https://github.com/) in this repository.
+I wrote about following this methodology in detail and an IEEE formatted report can be found in this repository.
 
 The findings of the project can also be found in the above report.
